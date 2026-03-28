@@ -2902,11 +2902,5 @@
     "title": "装机清单",
     "category": "06-其它",
     "level": 3
-  },
-  {
-    "path": "code-book/README.md",
-    "title": "README",
-    "category": "code-book",
-    "level": 1
   }
 ]

@@ -28,7 +28,7 @@ function scanDirectory(dir, fileList = []) {
   return fileList;
 }
 
-const fileList = scanDirectory('.');
+const fileList = scanDirectory('./code-book');
 const jsonContent = JSON.stringify(fileList, null, 2);
 fs.writeFileSync('js/filelist.json', jsonContent);
 console.log(`Generated filelist.json with ${fileList.length} files`);
