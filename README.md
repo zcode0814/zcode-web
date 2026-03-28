@@ -143,5 +143,42 @@ docker run \
     gcpaas/dataroom:latest
 ```
 
+## Github Pages
 
+### 流程
+
+```PlainText
+1. 推送代码到 main 分支
+        ↓
+2. GitHub Actions 自动检测到 push 事件
+        ↓
+3. 执行部署工作流：
+   - 检出代码
+   - 生成文件列表
+   - 推送到 gh-pages 分支
+        ↓
+4. GitHub Pages 自动更新网站
+```
+
+### gh-pages 
+
+gh-pages 是 GitHub Pages 用于托管网站内容的一个特殊分支。
+
+```PlainText
+你的仓库 (zcode-web)
+├── main 分支 (源代码)
+│   ├── index.html
+│   ├── css/
+│   ├── js/
+│   └── ...
+│
+└── gh-pages 分支 (部署后的网站)
+    ├── index.html      ← 用户访问时看到的内容
+    ├── css/
+    ├── js/
+    └── ...
+```
+- 开发代码 存放在 main 分支
+- GitHub Actions 自动运行，将网站文件推送到 gh-pages 分支
+- GitHub Pages 从 gh-pages 分支读取文件并展示网站
 

@@ -1,5 +1,11 @@
 [
   {
+    "path": "README.md",
+    "title": "README",
+    "category": "",
+    "level": 0
+  },
+  {
     "path": "code-book/01-计算机基础/00-参考资料.md",
     "title": "00-参考资料",
     "category": "01-计算机基础",
@@ -2680,11 +2686,5 @@
     "title": "装机清单",
     "category": "06-其它",
     "level": 3
-  },
-  {
-    "path": "code-book/README.md",
-    "title": "README",
-    "category": "code-book",
-    "level": 1
   }
 ]
