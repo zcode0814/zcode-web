@@ -1,11 +1,5 @@
 [
   {
-    "path": "README.md",
-    "title": "README",
-    "category": "",
-    "level": 0
-  },
-  {
     "path": "code-book/01-计算机基础/00-参考资料.md",
     "title": "00-参考资料",
     "category": "01-计算机基础",
