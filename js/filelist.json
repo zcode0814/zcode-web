@@ -1,0 +1,2690 @@
+[
+  {
+    "path": "code-book/01-计算机基础/00-参考资料.md",
+    "title": "00-参考资料",
+    "category": "01-计算机基础",
+    "level": 2
+  },
+  {
+    "path": "code-book/01-计算机基础/TCP三次握手.md",
+    "title": "TCP三次握手",
+    "category": "01-计算机基础",
+    "level": 2
+  },
+  {
+    "path": "code-book/01-计算机基础/linux/01-命令操作大全.md",
+    "title": "01-命令操作大全",
+    "category": "linux",
+    "level": 3
+  },
+  {
+    "path": "code-book/01-计算机基础/操作系统.md",
+    "title": "操作系统",
+    "category": "01-计算机基础",
+    "level": 2
+  },
+  {
+    "path": "code-book/01-计算机基础/计算机网络.md",
+    "title": "计算机网络",
+    "category": "01-计算机基础",
+    "level": 2
+  },
+  {
+    "path": "code-book/02-并发编程/01-系统/01-并发编程-掘金.md",
+    "title": "01-并发编程-掘金",
+    "category": "01-系统",
+    "level": 3
+  },
+  {
+    "path": "code-book/02-并发编程/01-系统/02-实战应用.md",
+    "title": "02-实战应用",
+    "category": "01-系统",
+    "level": 3
+  },
+  {
+    "path": "code-book/02-并发编程/02-专题/01-ThreadLocal.md",
+    "title": "01-ThreadLocal",
+    "category": "02-专题",
+    "level": 3
+  },
+  {
+    "path": "code-book/02-并发编程/02-专题/02-AQS原理.md",
+    "title": "02-AQS原理",
+    "category": "02-专题",
+    "level": 3
+  },
+  {
+    "path": "code-book/02-并发编程/02-专题/03-ScheduledExecutorService详解.md",
+    "title": "03-ScheduledExecutorService详解",
+    "category": "02-专题",
+    "level": 3
+  },
+  {
+    "path": "code-book/02-并发编程/02-专题/04-CompletableFuture.md",
+    "title": "04-CompletableFuture",
+    "category": "02-专题",
+    "level": 3
+  },
+  {
+    "path": "code-book/02-并发编程/02-专题/05-CAS.md",
+    "title": "05-CAS",
+    "category": "02-专题",
+    "level": 3
+  },
+  {
+    "path": "code-book/04-JVM/01-Java应用发布时CPU抖动.md",
+    "title": "01-Java应用发布时CPU抖动",
+    "category": "04-JVM",
+    "level": 2
+  },
+  {
+    "path": "code-book/04-JVM/02-调优工具.md",
+    "title": "02-调优工具",
+    "category": "04-JVM",
+    "level": 2
+  },
+  {
+    "path": "code-book/04-JVM/03-打破双亲委派.md",
+    "title": "03-打破双亲委派",
+    "category": "04-JVM",
+    "level": 2
+  },
+  {
+    "path": "code-book/04-JVM/04-对象大小计算.md",
+    "title": "04-对象大小计算",
+    "category": "04-JVM",
+    "level": 2
+  },
+  {
+    "path": "code-book/04-JVM/大厂学院-JVM.md",
+    "title": "大厂学院-JVM",
+    "category": "04-JVM",
+    "level": 2
+  },
+  {
+    "path": "code-book/05-数据存储/00-综合/01-jk-后端存储实战.md",
+    "title": "01-jk-后端存储实战",
+    "category": "00-综合",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/00-综合/02-mk-7大业务场景.md",
+    "title": "02-mk-7大业务场景",
+    "category": "00-综合",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/00-综合/03-数据库版本管理工具.md",
+    "title": "03-数据库版本管理工具",
+    "category": "00-综合",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/01-MySql/00-专题/01-update的执行过程.md",
+    "title": "01-update的执行过程",
+    "category": "00-专题",
+    "level": 4
+  },
+  {
+    "path": "code-book/05-数据存储/01-MySql/00-专题/12-丁奇45讲.md",
+    "title": "12-丁奇45讲",
+    "category": "00-专题",
+    "level": 4
+  },
+  {
+    "path": "code-book/05-数据存储/01-MySql/00-参考文章.md",
+    "title": "00-参考文章",
+    "category": "01-MySql",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/01-MySql/01-Innodb存储引擎.md",
+    "title": "01-Innodb存储引擎",
+    "category": "01-MySql",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/01-MySql/02-MySQL的日志.md",
+    "title": "02-MySQL的日志",
+    "category": "01-MySql",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/01-MySql/03-MySQL的锁.md",
+    "title": "03-MySQL的锁",
+    "category": "01-MySql",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/01-MySql/04-MySQL的存储.md",
+    "title": "04-MySQL的存储",
+    "category": "01-MySql",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/01-MySql/05-MySQL的事务和隔离级别.md",
+    "title": "05-MySQL的事务和隔离级别",
+    "category": "01-MySql",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/01-MySql/07-MySQL调优.md",
+    "title": "07-MySQL调优",
+    "category": "01-MySql",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/01-MySql/08-分库分表高可用.md",
+    "title": "08-分库分表高可用",
+    "category": "01-MySql",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/01-MySql/10-官方文档解读v8.md",
+    "title": "10-官方文档解读v8",
+    "category": "01-MySql",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/01-MySql/11-故障处理.md",
+    "title": "11-故障处理",
+    "category": "01-MySql",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/01-MySql/20-sql必杀技.md",
+    "title": "20-sql必杀技",
+    "category": "01-MySql",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/01-MySql/21-代码脚本.md",
+    "title": "21-代码脚本",
+    "category": "01-MySql",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/02-Redis/01.安装&源码.md",
+    "title": "01.安装&源码",
+    "category": "02-Redis",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/02-Redis/02-redis7从0到1.md",
+    "title": "02-redis7从0到1",
+    "category": "02-Redis",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/02-Redis/03-生产高可用.md",
+    "title": "03-生产高可用",
+    "category": "02-Redis",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/02-Redis/04-扩展应用.md",
+    "title": "04-扩展应用",
+    "category": "02-Redis",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/02-Redis/05-解决方案.md",
+    "title": "05-解决方案",
+    "category": "02-Redis",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/03-MongoDB/00-初体验.md",
+    "title": "00-初体验",
+    "category": "03-MongoDB",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/03-MongoDB/01-实战开发.md",
+    "title": "01-实战开发",
+    "category": "03-MongoDB",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/04-ElasticSearch/01-全文搜索实战.md",
+    "title": "01-全文搜索实战",
+    "category": "04-ElasticSearch",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/04-ElasticSearch/02-ES基础篇.md",
+    "title": "02-ES基础篇",
+    "category": "04-ElasticSearch",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/04-ElasticSearch/03-ES高级篇.md",
+    "title": "03-ES高级篇",
+    "category": "04-ElasticSearch",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/04-ElasticSearch/04-ES高级实战篇.md",
+    "title": "04-ES高级实战篇",
+    "category": "04-ElasticSearch",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/04-ElasticSearch/05-Luence实战.md",
+    "title": "05-Luence实战",
+    "category": "04-ElasticSearch",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/05-ClickHouse/01-快速入门ClickHouse.md",
+    "title": "01-快速入门ClickHouse",
+    "category": "05-ClickHouse",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/06-Neo4j/01-入门&整合SpringBoot.md",
+    "title": "01-入门&整合SpringBoot",
+    "category": "06-Neo4j",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/专题-Redis和MySQL的一致性/01-缓存更新策略.md",
+    "title": "01-缓存更新策略",
+    "category": "专题-Redis和MySQL的一致性",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/专题-Redis和MySQL的一致性/04-数据同步Canal实战.md",
+    "title": "04-数据同步Canal实战",
+    "category": "专题-Redis和MySQL的一致性",
+    "level": 3
+  },
+  {
+    "path": "code-book/05-数据存储/专题-Redis和MySQL的一致性/05-数据同步工具.md",
+    "title": "05-数据同步工具",
+    "category": "专题-Redis和MySQL的一致性",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/01-基础实战/00-Git操作规范.md",
+    "title": "00-Git操作规范",
+    "category": "01-基础实战",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/01-基础实战/01-JDK大版本特性.md",
+    "title": "01-JDK大版本特性",
+    "category": "01-基础实战",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/01-基础实战/02-Maven.md",
+    "title": "02-Maven",
+    "category": "01-基础实战",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/01-基础实战/03-获取jar包的静态资源.md",
+    "title": "03-获取jar包的静态资源",
+    "category": "01-基础实战",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/01-基础实战/04-集合实用技巧.md",
+    "title": "04-集合实用技巧",
+    "category": "01-基础实战",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/01-基础实战/05-启动类过滤器.md",
+    "title": "05-启动类过滤器",
+    "category": "01-基础实战",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/01-基础实战/06-开源工具类大全.md",
+    "title": "06-开源工具类大全",
+    "category": "01-基础实战",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/01-基础实战/07-日志框架.md",
+    "title": "07-日志框架",
+    "category": "01-基础实战",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/01-基础实战/08-Lombok.md",
+    "title": "08-Lombok",
+    "category": "01-基础实战",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/01-基础实战/10-事务管理.md",
+    "title": "10-事务管理",
+    "category": "01-基础实战",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/02-SpringBoot扩展/01-Mybatis-Plus.md",
+    "title": "01-Mybatis-Plus",
+    "category": "02-SpringBoot扩展",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/02-SpringBoot扩展/02-动态定时任务.md",
+    "title": "02-动态定时任务",
+    "category": "02-SpringBoot扩展",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/02-SpringBoot扩展/03-自定义日志Starter.md",
+    "title": "03-自定义日志Starter",
+    "category": "02-SpringBoot扩展",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/02-SpringBoot扩展/04-数据导入导出.md",
+    "title": "04-数据导入导出",
+    "category": "02-SpringBoot扩展",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/02-SpringBoot扩展/08-ECharts图表展示.md",
+    "title": "08-ECharts图表展示",
+    "category": "02-SpringBoot扩展",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/02-SpringBoot扩展/14-TraceId搭配ELK.md",
+    "title": "14-TraceId搭配ELK",
+    "category": "02-SpringBoot扩展",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/02-SpringBoot扩展/17-单机限流算法及实现.md",
+    "title": "17-单机限流算法及实现",
+    "category": "02-SpringBoot扩展",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/02-SpringBoot扩展/19-Canel同步MySql到ES.md",
+    "title": "19-Canel同步MySql到ES",
+    "category": "02-SpringBoot扩展",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/02-SpringBoot扩展/21-Spring Security实战.md",
+    "title": "21-Spring Security实战",
+    "category": "02-SpringBoot扩展",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/02-SpringBoot扩展/22-Druid数据库监控.md",
+    "title": "22-Druid数据库监控",
+    "category": "02-SpringBoot扩展",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/02-SpringBoot扩展/26-优雅参数校验.md",
+    "title": "26-优雅参数校验",
+    "category": "02-SpringBoot扩展",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/02-SpringBoot扩展/27-微信扫码登录.md",
+    "title": "27-微信扫码登录",
+    "category": "02-SpringBoot扩展",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/02-SpringBoot扩展/32-支付宝支付.md",
+    "title": "32-支付宝支付",
+    "category": "02-SpringBoot扩展",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/02-SpringBoot扩展/37-Flowable工作流.md",
+    "title": "37-Flowable工作流",
+    "category": "02-SpringBoot扩展",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/03-SpringCloud/01-Gateway+Nacos动态路由.md",
+    "title": "01-Gateway+Nacos动态路由",
+    "category": "03-SpringCloud",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/03-SpringCloud/02-Dubbo+Nacos服务调用.md",
+    "title": "02-Dubbo+Nacos服务调用",
+    "category": "03-SpringCloud",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/03-SpringCloud/04-Sentinel限流实战篇.md",
+    "title": "04-Sentinel限流实战篇",
+    "category": "03-SpringCloud",
+    "level": 3
+  },
+  {
+    "path": "code-book/06-SpringBoot实战/03-SpringCloud/05-基于Nacos的动态线程池.md",
+    "title": "05-基于Nacos的动态线程池",
+    "category": "03-SpringCloud",
+    "level": 3
+  },
+  {
+    "path": "code-book/07-消息队列/00-综合运用/00-jk-消息队列高手课.md",
+    "title": "00-jk-消息队列高手课",
+    "category": "00-综合运用",
+    "level": 3
+  },
+  {
+    "path": "code-book/07-消息队列/00-综合运用/01-技术选型.md",
+    "title": "01-技术选型",
+    "category": "00-综合运用",
+    "level": 3
+  },
+  {
+    "path": "code-book/07-消息队列/00-综合运用/02-顺序消费、重复消费、消息丢失.md",
+    "title": "02-顺序消费、重复消费、消息丢失",
+    "category": "00-综合运用",
+    "level": 3
+  },
+  {
+    "path": "code-book/07-消息队列/00-综合运用/03-消息堆积就是增加消费者这么简单吗？.md",
+    "title": "03-消息堆积就是增加消费者这么简单吗？",
+    "category": "00-综合运用",
+    "level": 3
+  },
+  {
+    "path": "code-book/07-消息队列/00-综合运用/04-事务消息.md",
+    "title": "04-事务消息",
+    "category": "00-综合运用",
+    "level": 3
+  },
+  {
+    "path": "code-book/07-消息队列/00-综合运用/05-延迟消息-时间轮.md",
+    "title": "05-延迟消息-时间轮",
+    "category": "00-综合运用",
+    "level": 3
+  },
+  {
+    "path": "code-book/07-消息队列/01-RocketMQ/07-mk-RocketMQ实战.md",
+    "title": "07-mk-RocketMQ实战",
+    "category": "01-RocketMQ",
+    "level": 3
+  },
+  {
+    "path": "code-book/07-消息队列/01-RocketMQ/08-儒猿-MQ实战高手.md",
+    "title": "08-儒猿-MQ实战高手",
+    "category": "01-RocketMQ",
+    "level": 3
+  },
+  {
+    "path": "code-book/07-消息队列/01-RocketMQ/09-儒猿&掘金-RocketMQ源码.md",
+    "title": "09-儒猿&掘金-RocketMQ源码",
+    "category": "01-RocketMQ",
+    "level": 3
+  },
+  {
+    "path": "code-book/07-消息队列/01-RocketMQ/13-掘金小册-RocketMQ核心原理.md",
+    "title": "13-掘金小册-RocketMQ核心原理",
+    "category": "01-RocketMQ",
+    "level": 3
+  },
+  {
+    "path": "code-book/07-消息队列/02-RabbitMQ/11-mk-RabbitMQ实战.md",
+    "title": "11-mk-RabbitMQ实战",
+    "category": "02-RabbitMQ",
+    "level": 3
+  },
+  {
+    "path": "code-book/07-消息队列/03-Kafka/01-集成SpringBoot的Kafka开发环境.md",
+    "title": "01-集成SpringBoot的Kafka开发环境",
+    "category": "03-Kafka",
+    "level": 3
+  },
+  {
+    "path": "code-book/07-消息队列/03-Kafka/02-jk-Kafka核心技术与实战.md",
+    "title": "02-jk-Kafka核心技术与实战",
+    "category": "03-Kafka",
+    "level": 3
+  },
+  {
+    "path": "code-book/07-消息队列/04-Disruptor/12-Disruptor入门.md",
+    "title": "12-Disruptor入门",
+    "category": "04-Disruptor",
+    "level": 3
+  },
+  {
+    "path": "code-book/09-分布式解决方案/分布式事务/分布式事务实战-seata.md",
+    "title": "分布式事务实战-seata",
+    "category": "分布式事务",
+    "level": 3
+  },
+  {
+    "path": "code-book/09-分布式解决方案/分布式事务/分布式事务理论.md",
+    "title": "分布式事务理论",
+    "category": "分布式事务",
+    "level": 3
+  },
+  {
+    "path": "code-book/09-分布式解决方案/分布式事务/基于MQ实现分布式事务.md",
+    "title": "基于MQ实现分布式事务",
+    "category": "分布式事务",
+    "level": 3
+  },
+  {
+    "path": "code-book/09-分布式解决方案/分布式事务/基于本地表实现分布式事务.md",
+    "title": "基于本地表实现分布式事务",
+    "category": "分布式事务",
+    "level": 3
+  },
+  {
+    "path": "code-book/09-分布式解决方案/分布式算法/01-分布式分区算法.md",
+    "title": "01-分布式分区算法",
+    "category": "分布式算法",
+    "level": 3
+  },
+  {
+    "path": "code-book/09-分布式解决方案/分布式算法/02-分布式唯一ID算法.md",
+    "title": "02-分布式唯一ID算法",
+    "category": "分布式算法",
+    "level": 3
+  },
+  {
+    "path": "code-book/09-分布式解决方案/分布式算法/03-分布式一致性算法.md",
+    "title": "03-分布式一致性算法",
+    "category": "分布式算法",
+    "level": 3
+  },
+  {
+    "path": "code-book/09-分布式解决方案/分布式锁/Redis.md",
+    "title": "Redis",
+    "category": "分布式锁",
+    "level": 3
+  },
+  {
+    "path": "code-book/10-Framework/01-Spring/00-自研Spring.md",
+    "title": "00-自研Spring",
+    "category": "01-Spring",
+    "level": 3
+  },
+  {
+    "path": "code-book/10-Framework/01-Spring/01-bean 相关面试题.md",
+    "title": "01-bean 相关面试题",
+    "category": "01-Spring",
+    "level": 3
+  },
+  {
+    "path": "code-book/10-Framework/01-Spring/02-SpringBoot 面试题.md",
+    "title": "02-SpringBoot 面试题",
+    "category": "01-Spring",
+    "level": 3
+  },
+  {
+    "path": "code-book/10-Framework/02-SpringCloud/01-SpringCloud组件原理.md",
+    "title": "01-SpringCloud组件原理",
+    "category": "02-SpringCloud",
+    "level": 3
+  },
+  {
+    "path": "code-book/10-Framework/02-SpringCloud/04-掘金小册-Sentinel源码.md",
+    "title": "04-掘金小册-Sentinel源码",
+    "category": "02-SpringCloud",
+    "level": 3
+  },
+  {
+    "path": "code-book/10-Framework/02-SpringCloud/05-掘金小册-Nacos源码.md",
+    "title": "05-掘金小册-Nacos源码",
+    "category": "02-SpringCloud",
+    "level": 3
+  },
+  {
+    "path": "code-book/10-Framework/04-Zookeeper/00-实战案例.md",
+    "title": "00-实战案例",
+    "category": "04-Zookeeper",
+    "level": 3
+  },
+  {
+    "path": "code-book/10-Framework/04-Zookeeper/01-从PAXOS到ZOOKEEPER分布式一致性原理与实践.md",
+    "title": "01-从PAXOS到ZOOKEEPER分布式一致性原理与实践",
+    "category": "04-Zookeeper",
+    "level": 3
+  },
+  {
+    "path": "code-book/10-Framework/04-Zookeeper/02-源码分析.md",
+    "title": "02-源码分析",
+    "category": "04-Zookeeper",
+    "level": 3
+  },
+  {
+    "path": "code-book/10-Framework/04-Zookeeper/03-大厂学院.md",
+    "title": "03-大厂学院",
+    "category": "04-Zookeeper",
+    "level": 3
+  },
+  {
+    "path": "code-book/10-Framework/04-Zookeeper/04-zk过时了吗.md",
+    "title": "04-zk过时了吗",
+    "category": "04-Zookeeper",
+    "level": 3
+  },
+  {
+    "path": "code-book/10-Framework/05-Dubbo/01-优雅停机.md",
+    "title": "01-优雅停机",
+    "category": "05-Dubbo",
+    "level": 3
+  },
+  {
+    "path": "code-book/10-Framework/10-Netty/01-Netty预热-网络编程.md",
+    "title": "01-Netty预热-网络编程",
+    "category": "10-Netty",
+    "level": 3
+  },
+  {
+    "path": "code-book/10-Framework/10-Netty/02-Netty预热-IO多路复用.md",
+    "title": "02-Netty预热-IO多路复用",
+    "category": "10-Netty",
+    "level": 3
+  },
+  {
+    "path": "code-book/10-Framework/10-Netty/03-Netty预热-零拷贝.md",
+    "title": "03-Netty预热-零拷贝",
+    "category": "10-Netty",
+    "level": 3
+  },
+  {
+    "path": "code-book/10-Framework/10-Netty/04-Netty-从0到1.md",
+    "title": "04-Netty-从0到1",
+    "category": "10-Netty",
+    "level": 3
+  },
+  {
+    "path": "code-book/10-Framework/10-Netty/05-netty源码单点击破.md",
+    "title": "05-netty源码单点击破",
+    "category": "10-Netty",
+    "level": 3
+  },
+  {
+    "path": "code-book/10-Framework/10-Netty/05-websocket.md",
+    "title": "05-websocket",
+    "category": "10-Netty",
+    "level": 3
+  },
+  {
+    "path": "code-book/10-Framework/10-Netty/06-tomcat和netty对比.md",
+    "title": "06-tomcat和netty对比",
+    "category": "10-Netty",
+    "level": 3
+  },
+  {
+    "path": "code-book/10-Framework/10-Netty/07-FastThreadLocal.md",
+    "title": "07-FastThreadLocal",
+    "category": "10-Netty",
+    "level": 3
+  },
+  {
+    "path": "code-book/11-设计模式/00-模板.md",
+    "title": "00-模板",
+    "category": "11-设计模式",
+    "level": 2
+  },
+  {
+    "path": "code-book/11-设计模式/01-设计模式总览——七大原则.md",
+    "title": "01-设计模式总览——七大原则",
+    "category": "11-设计模式",
+    "level": 2
+  },
+  {
+    "path": "code-book/11-设计模式/享元模式.md",
+    "title": "享元模式",
+    "category": "11-设计模式",
+    "level": 2
+  },
+  {
+    "path": "code-book/11-设计模式/代理模式.md",
+    "title": "代理模式",
+    "category": "11-设计模式",
+    "level": 2
+  },
+  {
+    "path": "code-book/11-设计模式/单例模式.md",
+    "title": "单例模式",
+    "category": "11-设计模式",
+    "level": 2
+  },
+  {
+    "path": "code-book/11-设计模式/原型模式.md",
+    "title": "原型模式",
+    "category": "11-设计模式",
+    "level": 2
+  },
+  {
+    "path": "code-book/11-设计模式/外观模式.md",
+    "title": "外观模式",
+    "category": "11-设计模式",
+    "level": 2
+  },
+  {
+    "path": "code-book/11-设计模式/工厂方法模式.md",
+    "title": "工厂方法模式",
+    "category": "11-设计模式",
+    "level": 2
+  },
+  {
+    "path": "code-book/11-设计模式/建造者模式.md",
+    "title": "建造者模式",
+    "category": "11-设计模式",
+    "level": 2
+  },
+  {
+    "path": "code-book/11-设计模式/桥接模式.md",
+    "title": "桥接模式",
+    "category": "11-设计模式",
+    "level": 2
+  },
+  {
+    "path": "code-book/11-设计模式/模板模式.md",
+    "title": "模板模式",
+    "category": "11-设计模式",
+    "level": 2
+  },
+  {
+    "path": "code-book/11-设计模式/策略+工厂+模板.md",
+    "title": "策略+工厂+模板",
+    "category": "11-设计模式",
+    "level": 2
+  },
+  {
+    "path": "code-book/11-设计模式/策略模式.md",
+    "title": "策略模式",
+    "category": "11-设计模式",
+    "level": 2
+  },
+  {
+    "path": "code-book/11-设计模式/简单工厂模式.md",
+    "title": "简单工厂模式",
+    "category": "11-设计模式",
+    "level": 2
+  },
+  {
+    "path": "code-book/11-设计模式/装饰器模式.md",
+    "title": "装饰器模式",
+    "category": "11-设计模式",
+    "level": 2
+  },
+  {
+    "path": "code-book/11-设计模式/观察者模式.md",
+    "title": "观察者模式",
+    "category": "11-设计模式",
+    "level": 2
+  },
+  {
+    "path": "code-book/11-设计模式/访问者模式.md",
+    "title": "访问者模式",
+    "category": "11-设计模式",
+    "level": 2
+  },
+  {
+    "path": "code-book/11-设计模式/责任任链模式——高级应用.md",
+    "title": "责任任链模式——高级应用",
+    "category": "11-设计模式",
+    "level": 2
+  },
+  {
+    "path": "code-book/11-设计模式/责任链模式.md",
+    "title": "责任链模式",
+    "category": "11-设计模式",
+    "level": 2
+  },
+  {
+    "path": "code-book/11-设计模式/责任链模式——回旋链.md",
+    "title": "责任链模式——回旋链",
+    "category": "11-设计模式",
+    "level": 2
+  },
+  {
+    "path": "code-book/11-设计模式/适配器模式.md",
+    "title": "适配器模式",
+    "category": "11-设计模式",
+    "level": 2
+  },
+  {
+    "path": "code-book/12-系统设计/00-参考资料.md",
+    "title": "00-参考资料",
+    "category": "12-系统设计",
+    "level": 2
+  },
+  {
+    "path": "code-book/12-系统设计/01-调优实战/01-mk442-从0开始学调优.md",
+    "title": "01-mk442-从0开始学调优",
+    "category": "01-调优实战",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/01-调优实战/07-jk-Java性能调优实战.md",
+    "title": "07-jk-Java性能调优实战",
+    "category": "01-调优实战",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/01-调优实战/21-企业级性能优化实践.md",
+    "title": "21-企业级性能优化实践",
+    "category": "01-调优实战",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/02-项目实战/01-mk-仿斗鱼直播.md",
+    "title": "01-mk-仿斗鱼直播",
+    "category": "02-项目实战",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/02-项目实战/02-mk-自研网关.md",
+    "title": "02-mk-自研网关",
+    "category": "02-项目实战",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/02-项目实战/03-mk-手写MQ.md",
+    "title": "03-mk-手写MQ",
+    "category": "02-项目实战",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/02-项目实战/05-掘金小册-手写RPC.md",
+    "title": "05-掘金小册-手写RPC",
+    "category": "02-项目实战",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/02-项目实战/06-掘金小册-分布式面试.md",
+    "title": "06-掘金小册-分布式面试",
+    "category": "02-项目实战",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/02-项目实战/08-星球-DDD抽奖系统.md",
+    "title": "08-星球-DDD抽奖系统",
+    "category": "02-项目实战",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/02-项目实战/09-掘金-Idea插件.md",
+    "title": "09-掘金-Idea插件",
+    "category": "02-项目实战",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/03-设计案例/01-抢红包.md",
+    "title": "01-抢红包",
+    "category": "03-设计案例",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/03-设计案例/02-幂等性方案汇总.md",
+    "title": "02-幂等性方案汇总",
+    "category": "03-设计案例",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/03-设计案例/02-数据密集型系统应用设计.md",
+    "title": "02-数据密集型系统应用设计",
+    "category": "03-设计案例",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/03-设计案例/05-支付系统图解.md",
+    "title": "05-支付系统图解",
+    "category": "03-设计案例",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/03-设计案例/09-缓存架构设计.md",
+    "title": "09-缓存架构设计",
+    "category": "03-设计案例",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/03-设计案例/10-消息中心架构.md",
+    "title": "10-消息中心架构",
+    "category": "03-设计案例",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/03-设计案例/11-延迟任务设计.md",
+    "title": "11-延迟任务设计",
+    "category": "03-设计案例",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/03-设计案例/12-短链系统设计.md",
+    "title": "12-短链系统设计",
+    "category": "03-设计案例",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/03-设计案例/13-云客服平台的功能设计.md",
+    "title": "13-云客服平台的功能设计",
+    "category": "03-设计案例",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/03-设计案例/14-百万抽奖.md",
+    "title": "14-百万抽奖",
+    "category": "03-设计案例",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/04-专题-规则引擎/01-技术选型篇.md",
+    "title": "01-技术选型篇",
+    "category": "04-专题-规则引擎",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/04-专题-规则引擎/02-Drools.md",
+    "title": "02-Drools",
+    "category": "04-专题-规则引擎",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/05-专题-应用监控报警/01-SpringBootAdmin.md",
+    "title": "01-SpringBootAdmin",
+    "category": "05-专题-应用监控报警",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/05-专题-应用监控报警/02-Prometheus+Grafana监控.md",
+    "title": "02-Prometheus+Grafana监控",
+    "category": "05-专题-应用监控报警",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/05-专题-应用监控报警/03-HertzBeat实时监控系统.md",
+    "title": "03-HertzBeat实时监控系统",
+    "category": "05-专题-应用监控报警",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/05-专题-应用监控报警/04-掘金小册-SkyWalking实战.md",
+    "title": "04-掘金小册-SkyWalking实战",
+    "category": "05-专题-应用监控报警",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/05-专题-应用监控报警/05-SkyWalking企业级应用.md",
+    "title": "05-SkyWalking企业级应用",
+    "category": "05-专题-应用监控报警",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/06-专题-分布式任务调度/xxl-job.md",
+    "title": "xxl-job",
+    "category": "06-专题-分布式任务调度",
+    "level": 3
+  },
+  {
+    "path": "code-book/12-系统设计/07-专题-营销系统/00-参考资料.md",
+    "title": "00-参考资料",
+    "category": "07-专题-营销系统",
+    "level": 3
+  },
+  {
+    "path": "code-book/13-DevOpsTest/01-Docker.md",
+    "title": "01-Docker",
+    "category": "13-DevOpsTest",
+    "level": 2
+  },
+  {
+    "path": "code-book/13-DevOpsTest/02-Jenkins.md",
+    "title": "02-Jenkins",
+    "category": "13-DevOpsTest",
+    "level": 2
+  },
+  {
+    "path": "code-book/13-DevOpsTest/03-k8s.md",
+    "title": "03-k8s",
+    "category": "13-DevOpsTest",
+    "level": 2
+  },
+  {
+    "path": "code-book/13-DevOpsTest/04-Docker管理工具——portainer.md",
+    "title": "04-Docker管理工具——portainer",
+    "category": "13-DevOpsTest",
+    "level": 2
+  },
+  {
+    "path": "code-book/13-DevOpsTest/05-Nginx部署Vue.md",
+    "title": "05-Nginx部署Vue",
+    "category": "13-DevOpsTest",
+    "level": 2
+  },
+  {
+    "path": "code-book/13-DevOpsTest/06-jpom-简而轻运维软件.md",
+    "title": "06-jpom-简而轻运维软件",
+    "category": "13-DevOpsTest",
+    "level": 2
+  },
+  {
+    "path": "code-book/13-DevOpsTest/07-Arthas线上监控.md",
+    "title": "07-Arthas线上监控",
+    "category": "13-DevOpsTest",
+    "level": 2
+  },
+  {
+    "path": "code-book/13-DevOpsTest/08-测试工具.md",
+    "title": "08-测试工具",
+    "category": "13-DevOpsTest",
+    "level": 2
+  },
+  {
+    "path": "code-book/13-DevOpsTest/20-云服务器实战.md",
+    "title": "20-云服务器实战",
+    "category": "13-DevOpsTest",
+    "level": 2
+  },
+  {
+    "path": "code-book/14-大前端/01-Vue/01-Vue3+Vite.md",
+    "title": "01-Vue3+Vite",
+    "category": "01-Vue",
+    "level": 3
+  },
+  {
+    "path": "code-book/14-大前端/01-Vue/02-Pinia.md",
+    "title": "02-Pinia",
+    "category": "01-Vue",
+    "level": 3
+  },
+  {
+    "path": "code-book/14-大前端/01-Vue/03-Vue接入MarkDown编辑器.md",
+    "title": "03-Vue接入MarkDown编辑器",
+    "category": "01-Vue",
+    "level": 3
+  },
+  {
+    "path": "code-book/14-大前端/01-Vue/04-AntDesignVue.md",
+    "title": "04-AntDesignVue",
+    "category": "01-Vue",
+    "level": 3
+  },
+  {
+    "path": "code-book/14-大前端/01-Vue/05-CSS.md",
+    "title": "05-CSS",
+    "category": "01-Vue",
+    "level": 3
+  },
+  {
+    "path": "code-book/14-大前端/01-Vue/10-JavaScript技巧.md",
+    "title": "10-JavaScript技巧",
+    "category": "01-Vue",
+    "level": 3
+  },
+  {
+    "path": "code-book/14-大前端/02-Electron/00-参考资料.md",
+    "title": "00-参考资料",
+    "category": "02-Electron",
+    "level": 3
+  },
+  {
+    "path": "code-book/14-大前端/02-Electron/01-结合 Vue3.md",
+    "title": "01-结合 Vue3",
+    "category": "02-Electron",
+    "level": 3
+  },
+  {
+    "path": "code-book/14-大前端/03-MiniApp/01-企差评/01-准备篇.md",
+    "title": "01-准备篇",
+    "category": "01-企差评",
+    "level": 4
+  },
+  {
+    "path": "code-book/14-大前端/03-MiniApp/02-UniApp.md",
+    "title": "02-UniApp",
+    "category": "03-MiniApp",
+    "level": 3
+  },
+  {
+    "path": "code-book/14-大前端/04-Flutter/01-入门篇.md",
+    "title": "01-入门篇",
+    "category": "04-Flutter",
+    "level": 3
+  },
+  {
+    "path": "code-book/14-大前端/05-WebRTC/01-掘金小册-私有化会议直播系统.md",
+    "title": "01-掘金小册-私有化会议直播系统",
+    "category": "05-WebRTC",
+    "level": 3
+  },
+  {
+    "path": "code-book/14-大前端/06-开源项目/00-汇总.md",
+    "title": "00-汇总",
+    "category": "06-开源项目",
+    "level": 3
+  },
+  {
+    "path": "code-book/15-大模型/01-理论篇/01-基本概念.md",
+    "title": "01-基本概念",
+    "category": "01-理论篇",
+    "level": 3
+  },
+  {
+    "path": "code-book/15-大模型/01-理论篇/02-整体流程.md",
+    "title": "02-整体流程",
+    "category": "01-理论篇",
+    "level": 3
+  },
+  {
+    "path": "code-book/15-大模型/01-理论篇/03-核心算法.md",
+    "title": "03-核心算法",
+    "category": "01-理论篇",
+    "level": 3
+  },
+  {
+    "path": "code-book/15-大模型/02-Java 框架/02-Spring AI.md",
+    "title": "02-Spring AI",
+    "category": "02-Java 框架",
+    "level": 3
+  },
+  {
+    "path": "code-book/15-大模型/02-Java 框架/03-LangChain4j.md",
+    "title": "03-LangChain4j",
+    "category": "02-Java 框架",
+    "level": 3
+  },
+  {
+    "path": "code-book/15-大模型/03-应用篇/00-案例汇总.md",
+    "title": "00-案例汇总",
+    "category": "03-应用篇",
+    "level": 3
+  },
+  {
+    "path": "code-book/15-大模型/03-应用篇/01-Ollama本地部署Deepseek.md",
+    "title": "01-Ollama本地部署Deepseek",
+    "category": "03-应用篇",
+    "level": 3
+  },
+  {
+    "path": "code-book/15-大模型/03-应用篇/07-LLMOps.md",
+    "title": "07-LLMOps",
+    "category": "03-应用篇",
+    "level": 3
+  },
+  {
+    "path": "code-book/19-开源/00-经典书籍/00-微信读书.md",
+    "title": "00-微信读书",
+    "category": "00-经典书籍",
+    "level": 3
+  },
+  {
+    "path": "code-book/19-开源/00-经典书籍/01-Effective Java.md",
+    "title": "01-Effective Java",
+    "category": "00-经典书籍",
+    "level": 3
+  },
+  {
+    "path": "code-book/19-开源/01-开源项目/00-汇总.md",
+    "title": "00-汇总",
+    "category": "01-开源项目",
+    "level": 3
+  },
+  {
+    "path": "code-book/19-开源/02-美团技术团队/00-热门文章汇总.md",
+    "title": "00-热门文章汇总",
+    "category": "02-美团技术团队",
+    "level": 3
+  },
+  {
+    "path": "code-book/19-开源/02-美团技术团队/01-操作日志优雅记录.md",
+    "title": "01-操作日志优雅记录",
+    "category": "02-美团技术团队",
+    "level": 3
+  },
+  {
+    "path": "code-book/20-全能面试手册/00-半月规划.md",
+    "title": "00-半月规划",
+    "category": "20-全能面试手册",
+    "level": 2
+  },
+  {
+    "path": "code-book/20-全能面试手册/01-简历/简历优化.md",
+    "title": "简历优化",
+    "category": "01-简历",
+    "level": 3
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/00-数据结构和算法/01-数据结构和算法之美.md",
+    "title": "01-数据结构和算法之美",
+    "category": "00-数据结构和算法",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/00-数据结构和算法/06-动态规划.md",
+    "title": "06-动态规划",
+    "category": "00-数据结构和算法",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/00-数据结构和算法/二叉树.md",
+    "title": "二叉树",
+    "category": "00-数据结构和算法",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/00-数据结构和算法/单调栈.md",
+    "title": "单调栈",
+    "category": "00-数据结构和算法",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/00-数据结构和算法/排序算法.md",
+    "title": "排序算法",
+    "category": "00-数据结构和算法",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/00-数据结构和算法/算法学习路线.md",
+    "title": "算法学习路线",
+    "category": "00-数据结构和算法",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/00-数据结构和算法/经典题汇总.md",
+    "title": "经典题汇总",
+    "category": "00-数据结构和算法",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/0001-新模板.md",
+    "title": "0001-新模板",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/0002-刷题模板.md",
+    "title": "0002-刷题模板",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/1025. 除数博弈.md",
+    "title": "1025. 除数博弈",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/1046. 最后一块石头的重量.md",
+    "title": "1046. 最后一块石头的重量",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/1109. 航班预订统计.md",
+    "title": "1109. 航班预订统计",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/1137. 第 N 个泰波那契数.md",
+    "title": "1137. 第 N 个泰波那契数",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/1201. 丑数 III.md",
+    "title": "1201. 丑数 III",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/1221. 分割平衡字符串.md",
+    "title": "1221. 分割平衡字符串",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/1234. 替换子串得到平衡字符串.md",
+    "title": "1234. 替换子串得到平衡字符串",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/1250. 检查「好数组」.md",
+    "title": "1250. 检查「好数组」",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/1290. 二进制链表转整数.md",
+    "title": "1290. 二进制链表转整数",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/1323. 6 和 9 组成的最大数字.md",
+    "title": "1323. 6 和 9 组成的最大数字",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/1451. 重新排列句子中的单词.md",
+    "title": "1451. 重新排列句子中的单词",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/1475. 商品折扣后的最终价格.md",
+    "title": "1475. 商品折扣后的最终价格",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/1492. n 的第 k 个因子.md",
+    "title": "1492. n 的第 k 个因子",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/1512. 好数对的数目.md",
+    "title": "1512. 好数对的数目",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/1524. 和为奇数的子数组数目.md",
+    "title": "1524. 和为奇数的子数组数目",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/1552. 两球之间的磁力.md",
+    "title": "1552. 两球之间的磁力",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/1588. 所有奇数长度子数组的和.md",
+    "title": "1588. 所有奇数长度子数组的和",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/1827. 最少操作使数组递增.md",
+    "title": "1827. 最少操作使数组递增",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/187. 重复的DNA序列.md",
+    "title": "187. 重复的DNA序列",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/1913. 两个数对之间的最大乘积差.md",
+    "title": "1913. 两个数对之间的最大乘积差",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/1979. 找出数组的最大公约数.md",
+    "title": "1979. 找出数组的最大公约数",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/1的个数.md",
+    "title": "1的个数",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/2 的幂.md",
+    "title": "2 的幂",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/2006. 差的绝对值为 K 的数对数目.md",
+    "title": "2006. 差的绝对值为 K 的数对数目",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/206. 反转链表.md",
+    "title": "206. 反转链表",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/237. 删除链表中的节点.md",
+    "title": "237. 删除链表中的节点",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/268. 丢失的数字.md",
+    "title": "268. 丢失的数字",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/392. 判断子序列.md",
+    "title": "392. 判断子序列",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/50. Pow(x, n).md",
+    "title": "50. Pow(x, n)",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/697. 数组的度.md",
+    "title": "697. 数组的度",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/739. 每日温度.md",
+    "title": "739. 每日温度",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/746. 使用最小花费爬楼梯 (copy).md",
+    "title": "746. 使用最小花费爬楼梯 (copy)",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/746. 使用最小花费爬楼梯.md",
+    "title": "746. 使用最小花费爬楼梯",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/75. 颜色分类.md",
+    "title": "75. 颜色分类",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/88.合并两个有序数组.md",
+    "title": "88.合并两个有序数组",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/914. 卡牌分组.md",
+    "title": "914. 卡牌分组",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/921. 使括号有效的最少添加.md",
+    "title": "921. 使括号有效的最少添加",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/94.二叉树的中序遍历.md",
+    "title": "94.二叉树的中序遍历",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/URL化.md",
+    "title": "URL化",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/x 的平方根.md",
+    "title": "x 的平方根",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/三个数的最大乘积.md",
+    "title": "三个数的最大乘积",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/三数之和.md",
+    "title": "三数之和",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/下一个更大元素 I.md",
+    "title": "下一个更大元素 I",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/两个数组的交集.md",
+    "title": "两个数组的交集",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/买卖股票的最佳时机.md",
+    "title": "买卖股票的最佳时机",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/二叉树的中序遍历.md",
+    "title": "二叉树的中序遍历",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/二叉树的最大深度.md",
+    "title": "二叉树的最大深度",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/二叉树的直径.md",
+    "title": "二叉树的直径",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/二进制求和.md",
+    "title": "二进制求和",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/交叉链表.md",
+    "title": "交叉链表",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/删除有序数组中的重复项.md",
+    "title": "删除有序数组中的重复项",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/删除链表为零的元素.md",
+    "title": "删除链表为零的元素",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/剑指 Offer II 003. 前 n 个数字二进制中 1 的个数.md",
+    "title": "剑指 Offer II 003. 前 n 个数字二进制中 1 的个数",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/剑指Offer03.数组中重复的数字.md",
+    "title": "剑指Offer03.数组中重复的数字",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/加1.md",
+    "title": "加1",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/单词规律.md",
+    "title": "单词规律",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/只出现一次的数字.md",
+    "title": "只出现一次的数字",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/合并二叉树.md",
+    "title": "合并二叉树",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/合并有序链表.md",
+    "title": "合并有序链表",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/同构字符串.md",
+    "title": "同构字符串",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/和为K的子数组.md",
+    "title": "和为K的子数组",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/回文链表0.md",
+    "title": "回文链表0",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/多数元素.md",
+    "title": "多数元素",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/子数组最大平均数 I.md",
+    "title": "子数组最大平均数 I",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/字符串压缩.md",
+    "title": "字符串压缩",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/字符串相加.md",
+    "title": "字符串相加",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/字符串轮转.md",
+    "title": "字符串轮转",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/存在重复元素.md",
+    "title": "存在重复元素",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/对称二叉树.md",
+    "title": "对称二叉树",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/寻找数组的中心下标.md",
+    "title": "寻找数组的中心下标",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/快乐数.md",
+    "title": "快乐数",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/扑克牌中的顺子.md",
+    "title": "扑克牌中的顺子",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/提莫攻击.md",
+    "title": "提莫攻击",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/搜索插入位置.md",
+    "title": "搜索插入位置",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/数组中两元素的最大乘积.md",
+    "title": "数组中两元素的最大乘积",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/数组中重复的数字.md",
+    "title": "数组中重复的数字",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/数组拆分 I.md",
+    "title": "数组拆分 I",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/旋转数组的最小数字.md",
+    "title": "旋转数组的最小数字",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/替换空格.md",
+    "title": "替换空格",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/最后一个单词的长度.md",
+    "title": "最后一个单词的长度",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/最大子序和.md",
+    "title": "最大子序和",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/最大连续 1 的个数.md",
+    "title": "最大连续 1 的个数",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/最小的k个数.md",
+    "title": "最小的k个数",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/最少操作.md",
+    "title": "最少操作",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/最长不重复子串.md",
+    "title": "最长不重复子串",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/最长回文子串.md",
+    "title": "最长回文子串",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/最长连续递增序列.md",
+    "title": "最长连续递增序列",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/有序数组合并.md",
+    "title": "有序数组合并",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/有效的字母异位词.md",
+    "title": "有效的字母异位词",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/有效的括号.md",
+    "title": "有效的括号",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/杨辉三角.md",
+    "title": "杨辉三角",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/比特位计数.md",
+    "title": "比特位计数",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/爬楼梯.md",
+    "title": "爬楼梯",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/移动零.md",
+    "title": "移动零",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/移除元素.md",
+    "title": "移除元素",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/移除重复节点.md",
+    "title": "移除重复节点",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/罗马数字.md",
+    "title": "罗马数字",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/翻转二叉树.md",
+    "title": "翻转二叉树",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/调整数组顺序使奇数位于偶数前面.md",
+    "title": "调整数组顺序使奇数位于偶数前面",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/距离.md",
+    "title": "距离",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/错误的集合.md",
+    "title": "错误的集合",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/青蛙跳台阶.md",
+    "title": "青蛙跳台阶",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/面试题 01.01. 判定字符是否唯一.md",
+    "title": "面试题 01.01. 判定字符是否唯一",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/01-一阶段刷题/验证回文串.md",
+    "title": "验证回文串",
+    "category": "01-一阶段刷题",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-01-旋转链表、删除链表元素、相交链表.md",
+    "title": "08-01-旋转链表、删除链表元素、相交链表",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-02-反转链表-.md",
+    "title": "08-02-反转链表-",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-03-删除重复元素.md",
+    "title": "08-03-删除重复元素",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-04-链表中的两数相加.md",
+    "title": "08-04-链表中的两数相加",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-05-链表的下一个最大元素.md",
+    "title": "08-05-链表的下一个最大元素",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-07-环形链表Ⅱ.md",
+    "title": "08-07-环形链表Ⅱ",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-08-二叉树的深度.md",
+    "title": "08-08-二叉树的深度",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-09-二叉树遍历.md",
+    "title": "08-09-二叉树遍历",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-10-根节点到叶节点数字之和.md",
+    "title": "08-10-根节点到叶节点数字之和",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-11-第K小的元素.md",
+    "title": "08-11-第K小的元素",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-12-补-对称二叉树.md",
+    "title": "08-12-补-对称二叉树",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-13-补.md",
+    "title": "08-13-补",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-14-补.md",
+    "title": "08-14-补",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-15-二叉树最大宽度.md",
+    "title": "08-15-二叉树最大宽度",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-16-去除重复字母.md",
+    "title": "08-16-去除重复字母",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-17-滑动窗口.md",
+    "title": "08-17-滑动窗口",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-19-反转每对括号间的子串.md",
+    "title": "08-19-反转每对括号间的子串",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-20-输入有序数组.md",
+    "title": "08-20-输入有序数组",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-21-找到第一个比 target 小的数.md",
+    "title": "08-21-找到第一个比 target 小的数",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-23-和为s的两个数.md",
+    "title": "08-23-和为s的两个数",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-24-最大连续1的个数 III.md",
+    "title": "08-24-最大连续1的个数 III",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-25-前缀和.md",
+    "title": "08-25-前缀和",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-26-位运算.md",
+    "title": "08-26-位运算",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-27-贪心.md",
+    "title": "08-27-贪心",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-29-贪心-575_.md",
+    "title": "08-29-贪心-575_",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-30-字符串.md",
+    "title": "08-30-字符串",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-08/08-31-动态规划.md",
+    "title": "08-31-动态规划",
+    "category": "2022-08",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-09/09-01-动态规划.md",
+    "title": "09-01-动态规划",
+    "category": "2022-09",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-09/09-05-动态规划.md",
+    "title": "09-05-动态规划",
+    "category": "2022-09",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-09/09-06-01背包.md",
+    "title": "09-06-01背包",
+    "category": "2022-09",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-09/09-07-完全背包.md",
+    "title": "09-07-完全背包",
+    "category": "2022-09",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-09/09-20-回溯.md",
+    "title": "09-20-回溯",
+    "category": "2022-09",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-11/09-07-滑动窗口+哈希表.md",
+    "title": "09-07-滑动窗口+哈希表",
+    "category": "2022-11",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-11/09-08-滑动窗口.md",
+    "title": "09-08-滑动窗口",
+    "category": "2022-11",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/02-二阶段-每日三题/2022-11/计划简介.md",
+    "title": "计划简介",
+    "category": "2022-11",
+    "level": 5
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/刷题心得.md",
+    "title": "刷题心得",
+    "category": "02-算法通关",
+    "level": 3
+  },
+  {
+    "path": "code-book/20-全能面试手册/02-算法通关/刷题指南.md",
+    "title": "刷题指南",
+    "category": "02-算法通关",
+    "level": 3
+  },
+  {
+    "path": "code-book/20-全能面试手册/03-面经/01-58同城.md",
+    "title": "01-58同城",
+    "category": "03-面经",
+    "level": 3
+  },
+  {
+    "path": "code-book/20-全能面试手册/03-面经/02-自如.md",
+    "title": "02-自如",
+    "category": "03-面经",
+    "level": 3
+  },
+  {
+    "path": "code-book/20-全能面试手册/03-面经/03-2024年初.md",
+    "title": "03-2024年初",
+    "category": "03-面经",
+    "level": 3
+  },
+  {
+    "path": "code-book/20-全能面试手册/03-面经/03-高途.md",
+    "title": "03-高途",
+    "category": "03-面经",
+    "level": 3
+  },
+  {
+    "path": "code-book/20-全能面试手册/03-面经/04-转转.md",
+    "title": "04-转转",
+    "category": "03-面经",
+    "level": 3
+  },
+  {
+    "path": "code-book/20-全能面试手册/03-面经/面试技巧.md",
+    "title": "面试技巧",
+    "category": "03-面经",
+    "level": 3
+  },
+  {
+    "path": "code-book/20-全能面试手册/04-八股文/00-面试备战间.md",
+    "title": "00-面试备战间",
+    "category": "04-八股文",
+    "level": 3
+  },
+  {
+    "path": "code-book/20-全能面试手册/04-八股文/01-Java基础-2.0.md",
+    "title": "01-Java基础-2.0",
+    "category": "04-八股文",
+    "level": 3
+  },
+  {
+    "path": "code-book/20-全能面试手册/04-八股文/02-JavaWeb-bak.md",
+    "title": "02-JavaWeb-bak",
+    "category": "04-八股文",
+    "level": 3
+  },
+  {
+    "path": "code-book/20-全能面试手册/04-八股文/03-集合（上篇）.md",
+    "title": "03-集合（上篇）",
+    "category": "04-八股文",
+    "level": 3
+  },
+  {
+    "path": "code-book/20-全能面试手册/04-八股文/04-JVM-bak.md",
+    "title": "04-JVM-bak",
+    "category": "04-八股文",
+    "level": 3
+  },
+  {
+    "path": "code-book/20-全能面试手册/04-八股文/04-集合（下篇）.md",
+    "title": "04-集合（下篇）",
+    "category": "04-八股文",
+    "level": 3
+  },
+  {
+    "path": "code-book/20-全能面试手册/04-八股文/05-八股集锦.md",
+    "title": "05-八股集锦",
+    "category": "04-八股文",
+    "level": 3
+  },
+  {
+    "path": "code-book/20-全能面试手册/04-八股文/循环依赖.md",
+    "title": "循环依赖",
+    "category": "04-八股文",
+    "level": 3
+  },
+  {
+    "path": "code-book/20-全能面试手册/05-社保福利/所得税计算.md",
+    "title": "所得税计算",
+    "category": "05-社保福利",
+    "level": 3
+  },
+  {
+    "path": "code-book/21-综合提升/01-工作/01-职业生涯归档/02-中设数字交接文档.md",
+    "title": "02-中设数字交接文档",
+    "category": "01-职业生涯归档",
+    "level": 4
+  },
+  {
+    "path": "code-book/21-综合提升/01-工作/02-日积月累/00-新入职路线图.md",
+    "title": "00-新入职路线图",
+    "category": "02-日积月累",
+    "level": 4
+  },
+  {
+    "path": "code-book/21-综合提升/01-工作/02-日积月累/01-BLM日报.md",
+    "title": "01-BLM日报",
+    "category": "02-日积月累",
+    "level": 4
+  },
+  {
+    "path": "code-book/21-综合提升/02-业务/01-SRM系统和ERP系统.md",
+    "title": "01-SRM系统和ERP系统",
+    "category": "02-业务",
+    "level": 3
+  },
+  {
+    "path": "code-book/21-综合提升/02-业务/02-大营销.md",
+    "title": "02-大营销",
+    "category": "02-业务",
+    "level": 3
+  },
+  {
+    "path": "code-book/21-综合提升/02-业务/03-交易支付对账结算.md",
+    "title": "03-交易支付对账结算",
+    "category": "02-业务",
+    "level": 3
+  },
+  {
+    "path": "code-book/22-开发工具/01-Mac/01-Mac技巧&设置.md",
+    "title": "01-Mac技巧&设置",
+    "category": "01-Mac",
+    "level": 3
+  },
+  {
+    "path": "code-book/22-开发工具/01-Mac/03-Switch模拟器.md",
+    "title": "03-Switch模拟器",
+    "category": "01-Mac",
+    "level": 3
+  },
+  {
+    "path": "code-book/22-开发工具/02-Idea/01-插件开发.md",
+    "title": "01-插件开发",
+    "category": "02-Idea",
+    "level": 3
+  },
+  {
+    "path": "code-book/22-开发工具/02-Idea/02-Idea插件合集.md",
+    "title": "02-Idea插件合集",
+    "category": "02-Idea",
+    "level": 3
+  },
+  {
+    "path": "code-book/22-开发工具/02-Idea/03-Settings大全.md",
+    "title": "03-Settings大全",
+    "category": "02-Idea",
+    "level": 3
+  },
+  {
+    "path": "code-book/22-开发工具/03-效率软件/04-SublimeText使用技巧.md",
+    "title": "04-SublimeText使用技巧",
+    "category": "03-效率软件",
+    "level": 3
+  },
+  {
+    "path": "code-book/22-开发工具/03-效率软件/05-WPS使用技巧.md",
+    "title": "05-WPS使用技巧",
+    "category": "03-效率软件",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/00-从实战学python/b站弹幕.md",
+    "title": "b站弹幕",
+    "category": "00-从实战学python",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/00-从实战学python/csdn监控.md",
+    "title": "csdn监控",
+    "category": "00-从实战学python",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/00-从实战学python/host.md",
+    "title": "host",
+    "category": "00-从实战学python",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/00-从实战学python/ip代理池.md",
+    "title": "ip代理池",
+    "category": "00-从实战学python",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/00-从实战学python/去雾算法.md",
+    "title": "去雾算法",
+    "category": "00-从实战学python",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/00-从实战学python/小说阅读器.md",
+    "title": "小说阅读器",
+    "category": "00-从实战学python",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/00-从实战学python/微博热榜爬虫.md",
+    "title": "微博热榜爬虫",
+    "category": "00-从实战学python",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/00-从实战学python/截屏工具.md",
+    "title": "截屏工具",
+    "category": "00-从实战学python",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/00-从实战学python/抖音.md",
+    "title": "抖音",
+    "category": "00-从实战学python",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/00-从实战学python/模版.md",
+    "title": "模版",
+    "category": "00-从实战学python",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/00-从实战学python/磁盘清理.md",
+    "title": "磁盘清理",
+    "category": "00-从实战学python",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/00-从实战学python/自制CSDN群发助手.md",
+    "title": "自制CSDN群发助手",
+    "category": "00-从实战学python",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/00-从实战学python/街拍.md",
+    "title": "街拍",
+    "category": "00-从实战学python",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/00-从实战学python/追女友.md",
+    "title": "追女友",
+    "category": "00-从实战学python",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/00-从实战学python/高考分析.md",
+    "title": "高考分析",
+    "category": "00-从实战学python",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/01-Go/01-掘金小册-零基础通关Go语言.md",
+    "title": "01-掘金小册-零基础通关Go语言",
+    "category": "01-Go",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/02-AI/00-参考资料.md",
+    "title": "00-参考资料",
+    "category": "02-AI",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/02-AI/01-promote.md",
+    "title": "01-promote",
+    "category": "02-AI",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/02-AI/03-变现.md",
+    "title": "03-变现",
+    "category": "02-AI",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/03-Spark/01初识spark.md",
+    "title": "01初识spark",
+    "category": "03-Spark",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/03-Spark/02环境搭建.md",
+    "title": "02环境搭建",
+    "category": "03-Spark",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/03-Spark/03WordCount.md",
+    "title": "03WordCount",
+    "category": "03-Spark",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/03-Spark/04Spark 运行架构.md",
+    "title": "04Spark 运行架构",
+    "category": "03-Spark",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/03-Spark/05RDD.md",
+    "title": "05RDD",
+    "category": "03-Spark",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/03-Spark/课程大纲.md",
+    "title": "课程大纲",
+    "category": "03-Spark",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/04-Unity3D/01-安装入门&学习资料.md",
+    "title": "01-安装入门&学习资料",
+    "category": "04-Unity3D",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/05-推广运营/2021/Java基础.md",
+    "title": "Java基础",
+    "category": "2021",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/05-推广运营/2021/Java路线.md",
+    "title": "Java路线",
+    "category": "2021",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/05-推广运营/2021/github-readme.md",
+    "title": "github-readme",
+    "category": "2021",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/05-推广运营/2021/万能标题.md",
+    "title": "万能标题",
+    "category": "2021",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/05-推广运营/2021/书单.md",
+    "title": "书单",
+    "category": "2021",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/05-推广运营/2021/技术交流群.md",
+    "title": "技术交流群",
+    "category": "2021",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/05-推广运营/2021/自我介绍.md",
+    "title": "自我介绍",
+    "category": "2021",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/05-推广运营/2021/蓝桥杯.md",
+    "title": "蓝桥杯",
+    "category": "2021",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/05-推广运营/2021/送书.md",
+    "title": "送书",
+    "category": "2021",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/05-推广运营/2022-程序员创造营/01-第一季-百人天团.md",
+    "title": "01-第一季-百人天团",
+    "category": "2022-程序员创造营",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/05-推广运营/2023-B站/剪辑技巧.md",
+    "title": "剪辑技巧",
+    "category": "2023-B站",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/05-推广运营/2023-B站/文案/小镇码农宣传文案.md",
+    "title": "小镇码农宣传文案",
+    "category": "文案",
+    "level": 5
+  },
+  {
+    "path": "code-book/23-扩展/05-推广运营/2023-B站/文案/文案素材.md",
+    "title": "文案素材",
+    "category": "文案",
+    "level": 5
+  },
+  {
+    "path": "code-book/23-扩展/06-其它/Java入门练习100例/01.helloworld.md",
+    "title": "01.helloworld",
+    "category": "Java入门练习100例",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/06-其它/Java入门练习100例/02输入.md",
+    "title": "02输入",
+    "category": "Java入门练习100例",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/06-其它/Java入门练习100例/03短路与逻辑与.md",
+    "title": "03短路与逻辑与",
+    "category": "Java入门练习100例",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/06-其它/Java入门练习100例/04三数排序.md",
+    "title": "04三数排序",
+    "category": "Java入门练习100例",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/06-其它/Java入门练习100例/05 5+ 55 + ...的前10项的和.md",
+    "title": "05 5+ 55 + ...的前10项的和",
+    "category": "Java入门练习100例",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/06-其它/Java入门练习100例/06计算 1 + 12! + 13! + 14! +   + 120! 的值.md",
+    "title": "06计算 1 + 12! + 13! + 14! +   + 120! 的值",
+    "category": "Java入门练习100例",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/06-其它/Java入门练习100例/07各数字的和.md",
+    "title": "07各数字的和",
+    "category": "Java入门练习100例",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/06-其它/Java入门练习100例/08素数.md",
+    "title": "08素数",
+    "category": "Java入门练习100例",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/06-其它/Java入门练习100例/09拆分数字.md",
+    "title": "09拆分数字",
+    "category": "Java入门练习100例",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/06-其它/Java入门练习100例/09数组最小值.md",
+    "title": "09数组最小值",
+    "category": "Java入门练习100例",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/06-其它/Java入门练习100例/10二维数组.md",
+    "title": "10二维数组",
+    "category": "Java入门练习100例",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/06-其它/Java入门练习100例/11equals.md",
+    "title": "11equals",
+    "category": "Java入门练习100例",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/06-其它/Java入门练习100例/12乘法表.md",
+    "title": "12乘法表",
+    "category": "Java入门练习100例",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/06-其它/Java入门练习100例/13.md",
+    "title": "13",
+    "category": "Java入门练习100例",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/06-其它/Java入门练习100例/15字符串加密.md",
+    "title": "15字符串加密",
+    "category": "Java入门练习100例",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/06-其它/Java入门练习100例/模板.md",
+    "title": "模板",
+    "category": "Java入门练习100例",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/06-其它/Java入门练习100例/源码.md",
+    "title": "源码",
+    "category": "Java入门练习100例",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/06-其它/Java入门练习100例/１４.md",
+    "title": "１４",
+    "category": "Java入门练习100例",
+    "level": 4
+  },
+  {
+    "path": "code-book/23-扩展/06-其它/PS.md",
+    "title": "PS",
+    "category": "06-其它",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/06-其它/TVBox.md",
+    "title": "TVBox",
+    "category": "06-其它",
+    "level": 3
+  },
+  {
+    "path": "code-book/23-扩展/06-其它/装机清单.md",
+    "title": "装机清单",
+    "category": "06-其它",
+    "level": 3
+  },
+  {
+    "path": "code-book/README.md",
+    "title": "README",
+    "category": "code-book",
+    "level": 1
+  }
+]
