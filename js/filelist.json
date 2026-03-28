@@ -2904,99 +2904,9 @@
     "level": 3
   },
   {
-    "path": "code-book/23-扩展/06-其它/里程碑照片.md",
-    "title": "里程碑照片",
-    "category": "06-其它",
-    "level": 3
-  },
-  {
     "path": "code-book/README.md",
     "title": "README",
     "category": "code-book",
     "level": 1
-  },
-  {
-    "path": "code-book/text/code-book/10-技术方案模板.md",
-    "title": "10-技术方案模板",
-    "category": "code-book",
-    "level": 3
-  },
-  {
-    "path": "code-book/text/code-book/30-业务积累.md",
-    "title": "30-业务积累",
-    "category": "code-book",
-    "level": 3
-  },
-  {
-    "path": "code-book/text/code-book/目录 1/00-待办.md",
-    "title": "00-待办",
-    "category": "目录 1",
-    "level": 4
-  },
-  {
-    "path": "code-book/text/code-book/目录 1/01-日常记录.md",
-    "title": "01-日常记录",
-    "category": "目录 1",
-    "level": 4
-  },
-  {
-    "path": "code-book/text/code-book/目录 1/02-CR.md",
-    "title": "02-CR",
-    "category": "目录 1",
-    "level": 4
-  },
-  {
-    "path": "code-book/text/code-book/目录 1/03-保障.md",
-    "title": "03-保障",
-    "category": "目录 1",
-    "level": 4
-  },
-  {
-    "path": "code-book/text/code-book/目录 1/05-述职.md",
-    "title": "05-述职",
-    "category": "目录 1",
-    "level": 4
-  },
-  {
-    "path": "code-book/text/code-book/目录 2/20-1-idea插件.md",
-    "title": "20-1-idea插件",
-    "category": "目录 2",
-    "level": 4
-  },
-  {
-    "path": "code-book/text/code-book/目录 2/23-注册中心.md",
-    "title": "23-注册中心",
-    "category": "目录 2",
-    "level": 4
-  },
-  {
-    "path": "code-book/text/code-book/目录 2/二级目录/20-0-技术积累.md",
-    "title": "20-0-技术积累",
-    "category": "二级目录",
-    "level": 5
-  },
-  {
-    "path": "code-book/text/code-book/目录 2/二级目录/22-软实力积累.md",
-    "title": "22-软实力积累",
-    "category": "二级目录",
-    "level": 5
-  },
-  {
-    "path": "code-book/text/code-book/目录 2/二级目录/三级目录/21-系统设计积累.md",
-    "title": "21-系统设计积累",
-    "category": "三级目录",
-    "level": 6
-  },
-  {
-    "path": "code-book/text/code-book/目录 2/二级目录/三级目录/UI 风格.md",
-    "title": "UI 风格",
-    "category": "三级目录",
-    "level": 6
-  },
-  {
-    "path": "code-book/text/code-book/目录 2/二级目录/三级目录/命名规范.md",
-    "title": "命名规范",
-    "category": "三级目录",
-    "level": 6
   }
 ]
