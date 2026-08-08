@@ -1,13 +1,25 @@
 [
   {
-    "path": "code-book/00-程序人生/00-Plan/00-DailyPlan.md",
-    "title": "00-DailyPlan",
+    "path": "code-book/00-程序人生/00-Plan/DailyPlan-2023.md",
+    "title": "DailyPlan-2023",
     "category": "00-Plan",
     "level": 3
   },
   {
-    "path": "code-book/00-程序人生/00-Plan/00-FitPlan.md",
-    "title": "00-FitPlan",
+    "path": "code-book/00-程序人生/00-Plan/DailyPlan-2026.md",
+    "title": "DailyPlan-2026",
+    "category": "00-Plan",
+    "level": 3
+  },
+  {
+    "path": "code-book/00-程序人生/00-Plan/FitPlan-2023.md",
+    "title": "FitPlan-2023",
+    "category": "00-Plan",
+    "level": 3
+  },
+  {
+    "path": "code-book/00-程序人生/00-Plan/FitPlan-2026.md",
+    "title": "FitPlan-2026",
     "category": "00-Plan",
     "level": 3
   },
