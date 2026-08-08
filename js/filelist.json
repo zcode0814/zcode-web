@@ -204,6 +204,12 @@
     "level": 3
   },
   {
+    "path": "code-book/05-数据存储/01-MySql/读写分离与分库分表设计方案.md",
+    "title": "读写分离与分库分表设计方案",
+    "category": "01-MySql",
+    "level": 3
+  },
+  {
     "path": "code-book/05-数据存储/02-Redis/01.安装&源码.md",
     "title": "01.安装&源码",
     "category": "02-Redis",
@@ -1242,12 +1248,6 @@
     "level": 3
   },
   {
-    "path": "code-book/20-全能面试手册/00-半月规划.md",
-    "title": "00-半月规划",
-    "category": "20-全能面试手册",
-    "level": 2
-  },
-  {
     "path": "code-book/20-全能面试手册/01-简历/简历优化.md",
     "title": "简历优化",
     "category": "01-简历",
@@ -2142,10 +2142,10 @@
     "level": 5
   },
   {
-    "path": "code-book/20-全能面试手册/02-算法通关/刷题心得.md",
-    "title": "刷题心得",
-    "category": "02-算法通关",
-    "level": 3
+    "path": "code-book/20-全能面试手册/02-算法通关/03-三阶段-热题/01-模板.md",
+    "title": "01-模板",
+    "category": "03-三阶段-热题",
+    "level": 4
   },
   {
     "path": "code-book/20-全能面试手册/02-算法通关/刷题指南.md",
@@ -2178,8 +2178,8 @@
     "level": 3
   },
   {
-    "path": "code-book/20-全能面试手册/03-面经/04-转转.md",
-    "title": "04-转转",
+    "path": "code-book/20-全能面试手册/03-面经/04-202607.md",
+    "title": "04-202607",
     "category": "03-面经",
     "level": 3
   },
@@ -2242,6 +2242,90 @@
     "title": "所得税计算",
     "category": "05-社保福利",
     "level": 3
+  },
+  {
+    "path": "code-book/20-全能面试手册/06-题库/01-基础题库/2607-基础题库.md",
+    "title": "2607-基础题库",
+    "category": "01-基础题库",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/06-题库/01-基础题库/2607-无答案题库.md",
+    "title": "2607-无答案题库",
+    "category": "01-基础题库",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/06-题库/01-基础题库/jstack如何分析死锁.md",
+    "title": "jstack如何分析死锁",
+    "category": "01-基础题库",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/06-题库/01-基础题库/线上CPU上涨与GC频繁排查.md",
+    "title": "线上CPU上涨与GC频繁排查",
+    "category": "01-基础题库",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/06-题库/01-基础题库/跳表的实现原理.md",
+    "title": "跳表的实现原理",
+    "category": "01-基础题库",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/06-题库/02-项目题库/01-品类运营.md",
+    "title": "01-品类运营",
+    "category": "02-项目题库",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/06-题库/02-项目题库/02-多语言.md",
+    "title": "02-多语言",
+    "category": "02-项目题库",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/06-题库/02-项目题库/03-FastInvoker.md",
+    "title": "03-FastInvoker",
+    "category": "02-项目题库",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/06-题库/03-大模型题库/01-RAG.md",
+    "title": "01-RAG",
+    "category": "03-大模型题库",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/06-题库/03-大模型题库/03-记忆.md",
+    "title": "03-记忆",
+    "category": "03-大模型题库",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/06-题库/03-大模型题库/04-意图识别.md",
+    "title": "04-意图识别",
+    "category": "03-大模型题库",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/06-题库/03-大模型题库/05-任务规划.md",
+    "title": "05-任务规划",
+    "category": "03-大模型题库",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/06-题库/03-大模型题库/06-MCP.md",
+    "title": "06-MCP",
+    "category": "03-大模型题库",
+    "level": 4
+  },
+  {
+    "path": "code-book/20-全能面试手册/06-题库/03-大模型题库/07-Agent.md",
+    "title": "07-Agent",
+    "category": "03-大模型题库",
+    "level": 4
   },
   {
     "path": "code-book/21-综合提升/01-工作/01-职业生涯归档/02-中设数字交接文档.md",
@@ -2415,24 +2499,6 @@
     "path": "code-book/23-扩展/01-Go/01-掘金小册-零基础通关Go语言.md",
     "title": "01-掘金小册-零基础通关Go语言",
     "category": "01-Go",
-    "level": 3
-  },
-  {
-    "path": "code-book/23-扩展/02-AI/00-参考资料.md",
-    "title": "00-参考资料",
-    "category": "02-AI",
-    "level": 3
-  },
-  {
-    "path": "code-book/23-扩展/02-AI/01-promote.md",
-    "title": "01-promote",
-    "category": "02-AI",
-    "level": 3
-  },
-  {
-    "path": "code-book/23-扩展/02-AI/03-变现.md",
-    "title": "03-变现",
-    "category": "02-AI",
     "level": 3
   },
   {
